@@ -1,0 +1,2 @@
+# Slime
+Student life management.
